@@ -103,6 +103,11 @@ h1{
     border: none;
 }
 
+amount:hover{
+    color: #FF6C6C;
+    border: none;
+}
+
 .intro_text{
     width: 100%;
     margin: 231px auto 231px auto;
