@@ -98,7 +98,7 @@ h1{
     border-right: 1px solid #E1E1E1;
 }
 
-.amount:hover{
+.amount>button:hover{
     color: #000
 }
 
