@@ -98,7 +98,7 @@ h1{
     border-right: 1px solid #E1E1E1;
 }
 
-.amount > li > div > a > button{
+.amount > button{
     background-color: #fff;
     border: none;
 }
