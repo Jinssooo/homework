@@ -98,15 +98,6 @@ h1{
     border-right: 1px solid #E1E1E1;
 }
 
-.amount > button{
-    background-color: #fff;
-    border: none;
-}
-
-amount:hover{
-    color: #FF6C6C;
-    border: none;
-}
 
 .intro_text{
     width: 100%;
