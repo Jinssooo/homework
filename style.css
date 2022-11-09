@@ -103,7 +103,7 @@ h1{
     border: none;
 }
 
-.:hover{
+.amount:hover{
     color: #FFA2A2;
 }
 
