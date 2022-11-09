@@ -100,6 +100,7 @@ h1{
 
 .amount > li > div > a > button{
     background-color: #fff;
+    border: none;
 }
 
 .intro_text{
