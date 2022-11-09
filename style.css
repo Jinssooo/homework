@@ -105,6 +105,7 @@ h1{
 
 .button:hover{
     color: #FFA2A2;
+    border: none;
 }
 
 .intro_text{
